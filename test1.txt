@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 269D-CD31
+
+ R‚pertoire de C:\Users\NardoPC\Desktop\MyProject
+
+26/03/2020  19:42    <DIR>          .
+26/03/2020  19:42    <DIR>          ..
+26/03/2020  19:42                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  935ÿ789ÿ469ÿ696 octets libres
